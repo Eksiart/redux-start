@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "3d20b80c-7d99-49ad-857d-e29e1fbef54c",
+      "name": "Ардан",
+      "description": "Все",
+      "element": "earth"
+    },
+    {
+      "id": "8edc9e45-4230-4057-b155-bf60bb113e97",
+      "name": "122222asdad",
+      "description": "asda",
+      "element": "fire"
+    },
+    {
+      "id": "bec67126-50b9-49a3-ae11-e4a6057df44e",
+      "name": "asdad",
+      "description": "asdad",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
